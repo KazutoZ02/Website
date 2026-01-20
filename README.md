@@ -19,3 +19,20 @@ Designed with a cyber-aesthetic vibe, glowing UI effects, animated backgrounds, 
 ---
 
 ## 🗂 Project Structure
+
+---
+
+## 🧩 Tech Stack
+
+- **React**
+- **React Router DOM**
+- **CSS3**
+- **Google Fonts**
+  - Orbitron
+  - Rajdhani
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
